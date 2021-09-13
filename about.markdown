@@ -27,4 +27,4 @@ Hi, I'm Prithvi, a young post-graduate, with a year experience in building and d
 - You learn best when you practice, and truly understand something when you don't have to use technical jargon while explaining to yourself.
   
 
-| [LinkedIn](https://www.linkedin.com/in/nprithviraj24/) |
+<!-- | [LinkedIn]() | -->
